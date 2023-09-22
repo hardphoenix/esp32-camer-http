@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.txt": "code-text-binary",
+			"esp_camera.h": "c",
+			"stdlib.h": "c",
+			"string.h": "c",
+			"param.h": "c",
+			"sdmmc_host.h": "c"
+		}
+	}
+}
